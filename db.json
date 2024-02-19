@@ -91,5 +91,21 @@
       },
       "subtitleType": "warning"
     }
-  ]
+  ],
+  "ebau": {
+    "apto": true,
+    "cnv": {
+      "anyo": 2024,
+      "coduni": "040",
+      "estado": "A",
+      "id": 150,
+      "mes": 6
+    },
+    "idTarjeta": 357746,
+    "notaAcceso": 6.41,
+    "notaMediaBachillerato": 6.7,
+    "notaMediaFaseObligatoria": 5.998,
+    "solicitarTarjeta": true,
+    "textoFase": "FINALIZADO PLAZO REVISIÓN"
+  }
 }
