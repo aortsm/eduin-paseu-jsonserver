@@ -4,7 +4,7 @@
 
 ## Try it
 
-[https://my-json-server.typicode.com/aortsm/eduin-paseu-jsonserver]
+https://my-json-server.typicode.com/aortsm/eduin-paseu-jsonserver
 
 ## Use your own data
 
