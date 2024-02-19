@@ -1,3 +1,5 @@
 {
-  "/login/authenticate": "/authenticate"
+  "/login/authenticate": "/authenticate",
+  "/options": "/options",
+  "/ebau" : "/ebau"
 }
