@@ -1,6 +1,10 @@
+## Documentation
+
+[https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
+
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/aortsm/eduin-paseu-jsonserver]
 
 ## Use your own data
 
