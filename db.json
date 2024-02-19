@@ -2,56 +2,6 @@
   "authenticate": {
     "id_token": "eyJhbGciOiJIUzI1NiJ9.eyJzZWNvbmRzdXJuYW1lIjoiQVBFTExJRE8yIiwiZmlyc3RuYW1lIjoiTk9NQlJFIiwibGFuZ2tleSI6ImVzIiwiZmlyc3RzdXJuYW1lIjoiQVBFTExJRE8xIiwiZG9jaWQiOiIwMTIzNDU2N0wiLCJhcHBpZCI6InN0cmluZyIsImxvZ2luIjoic3RyaW5nIiwidXNlcklkIjoxLCJlbWFpbCI6InVzdWFyaW9AZ3ZhLmVzIiwiYXV0aHR5cGUiOiJHRU5FUklDTyIsImlhdCI6MTcwNzEzMDI4MywiaXNzIjoiVFJBTUlUQURPUkVEVS1KV1QiLCJzdWIiOiJzdHJpbmciLCJhdWQiOiJzdHJpbmciLCJleHAiOjE3MDc3MzUwODN9.HKM9WrmZsZ8SuUf8pR54I6j18T3XxY3srXyR1gSntFw"
   },
-  "menuItems": [
-    {
-      "id": "paseu",
-      "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM1.LABEL",
-      "subItems": [
-        {
-          "id": "comunication",
-          "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM1.SUBITEMS.ITEM1.LABEL",
-          "icon": "notifications_active",
-          "routerLink": null
-        },
-        {
-          "id": "instructions",
-          "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM1.SUBITEMS.ITEM2.LABEL",
-          "icon": "description",
-          "routerLink": null
-        }
-      ]
-    },
-    {
-      "id": "ebau",
-      "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM2.LABEL",
-      "subItems": [
-        {
-          "id": "exams",
-          "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM2.SUBITEMS.ITEM1.LABEL",
-          "icon": "create",
-          "routerLink": null
-        },
-        {
-          "id": "marks",
-          "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM2.SUBITEMS.ITEM2.LABEL",
-          "icon": "grade",
-          "routerLink": null
-        }
-      ]
-    },
-    {
-      "id": "pauCard",
-      "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM3.LABEL",
-      "icon": "credit_card",
-      "routerLink": "test"
-    },
-    {
-      "id": "announcement",
-      "label": "APP.SHARED.COMPONENTS.MENU.ITEMS.ITEM4.LABEL",
-      "icon": "event",
-      "routerLink": "test"
-    }
-  ],
    "options": [
     {
       "titulo": "Comunicacions",
