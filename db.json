@@ -1,13 +1,4 @@
 {
-  "__comentarios__": [
-    {
-      "__comentario1__": "Instalación de json server: https://www.npmjs.com/package/json-server",
-      "__comentario2__": "Uso de json server: Primeramente crearemos el fichero db.json en el directorio que creamos conveniente",
-      "__comentario3__": "Uso de json server: Una vez instalado json server y creado el db.json lanzamos el siguiente comando json-server --watch ruta-fichero/db.json",
-      "__comentario4__": "Uso de json server: En las busquedas los campos deben ser completas o no se encontraran resultados",
-      "__comentario5__": "Uso de json server: Para servicios con slash(/) se debe añadir la ruta al fichero routes.json"
-    }
-  ],
   "authenticate": {
     "id_token": "eyJhbGciOiJIUzI1NiJ9.eyJzZWNvbmRzdXJuYW1lIjoiQVBFTExJRE8yIiwiZmlyc3RuYW1lIjoiTk9NQlJFIiwibGFuZ2tleSI6ImVzIiwiZmlyc3RzdXJuYW1lIjoiQVBFTExJRE8xIiwiZG9jaWQiOiIwMTIzNDU2N0wiLCJhcHBpZCI6InN0cmluZyIsImxvZ2luIjoic3RyaW5nIiwidXNlcklkIjoxLCJlbWFpbCI6InVzdWFyaW9AZ3ZhLmVzIiwiYXV0aHR5cGUiOiJHRU5FUklDTyIsImlhdCI6MTcwNzEzMDI4MywiaXNzIjoiVFJBTUlUQURPUkVEVS1KV1QiLCJzdWIiOiJzdHJpbmciLCJhdWQiOiJzdHJpbmciLCJleHAiOjE3MDc3MzUwODN9.HKM9WrmZsZ8SuUf8pR54I6j18T3XxY3srXyR1gSntFw"
   },
