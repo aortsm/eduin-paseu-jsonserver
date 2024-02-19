@@ -51,5 +51,45 @@
       "icon": "event",
       "routerLink": "test"
     }
+  ],
+   "options": [
+    {
+      "titulo": "Comunicacions",
+      "subtitulo": "05-06-2023. Els examenes EBA estan a punt de començar",
+      "icon": {
+        "counter": 12,
+        "type": "counterAlert"
+      },
+      "subtitleType": "bold",
+      "path": "comunications"
+    },
+    {
+      "titulo": "Exàmens EBAU",
+      "subtitulo": "Cunsulta les dades i els horaris dels exàmens",
+      "icon": {
+        "counter": null,
+        "type": "warning"
+      },
+      "subtitleType": "warning",
+      "path": "calendar"
+    },
+    {
+      "titulo": "Estudis i qualificacions EBAU",
+      "subtitulo": "Consulta les dades de batxiller",
+      "icon": {
+        "counter": 1,
+        "type": "counter"
+      },
+      "subtitleType": "normal"
+    },
+    {
+      "titulo": "Dades personals",
+      "subtitulo": "Has d'actualitzar les teues dades",
+      "icon": {
+        "counter": 0,
+        "type": "warning"
+      },
+      "subtitleType": "warning"
+    }
   ]
 }
